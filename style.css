@@ -1,0 +1,21 @@
+.labelsButtons {
+    width: 180px;
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    /* border: 2px solid #555555; */
+    border: 2px solid black;
+    padding: 5px;
+
+}
+
+.labelsButtons:hover {
+    /* background-color: #555555; */
+    background-color: black;
+    color: white;
+}
+
+.countersElements {
+    font-size: 25px;
+    padding: 80px;
+}
